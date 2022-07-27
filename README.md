@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devinrojas&label=Profile%20views&color=000000&style=flat-square" alt="devinrojas" /> </p>
 
+- I’m currently working on **Local Locator. A project that brings my favorite hobby, competitive fighting games, into a much more accessible light. The App helps users find local tournaments around their area using the Google Maps API and GeoLocator, ask questions about the games, and watch videos and have links to guides to improve on the game they desire.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devinrojas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devinrojas" height="30" width="40" /></a>
@@ -16,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devinrojas&show_icons=true&theme=dark&locale=en" alt="devinrojas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devinrojas&theme=dark" alt="devinrojas" /></p>
+
