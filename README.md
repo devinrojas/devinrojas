@@ -8,7 +8,7 @@
 <hr>
 
 <h3 align=“center”>Connect with me:</h3>
-<p align="left">
+<p align=“center”>
 <a href="https://linkedin.com/in/devinrojas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devinrojas" height="30" width="40" /></a>
 </p>
 
@@ -37,4 +37,7 @@
 
 <p><img align=“center” src="https://github-readme-stats.vercel.app/api/top-langs?username=devinrojas&show_icons=true&theme=dark&locale=en&layout=compact" alt="devinrojas" /></p>
 
+<hr>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devinrojas&show_icons=true&theme=dark&locale=en" alt="devinrojas" /></p>
+
