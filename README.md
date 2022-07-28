@@ -1,14 +1,18 @@
 <h1 align="center">Hello! I'm Devin Rojas</h1>
 <h3 align="center">I am a passionate Full-Stack developer from the Greater Boston Area</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devinrojas&label=Profile%20views&color=000000&style=flat-square" alt="devinrojas" /> </p>
+<hr> 
 
 - I’m currently working on **Local Locator. A project that brings my favorite hobby, competitive fighting games, into a much more accessible light. The App helps users find local tournaments around their area using the Google Maps API and GeoLocator, ask questions about the games, and watch videos and have links to guides to improve on the game they desire.**
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devinrojas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devinrojas" height="30" width="40" /></a>
 </p>
+
+<hr>
 
 <h3 align="left">Languages:</h3>
 <p align="left">   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </p>
@@ -26,7 +30,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devinrojas&show_icons=true&theme=dark&locale=en&layout=compact" alt="devinrojas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devinrojas&show_icons=true&theme=dark&locale=en" alt="devinrojas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devinrojas&theme=dark" alt="devinrojas" /></p>
