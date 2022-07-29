@@ -3,7 +3,7 @@
 
 <hr> 
 
-- I’m currently working on **Local Locator. A project that brings my favorite hobby, competitive fighting games, into a much more accessible light. The App helps users find local tournaments around their area using the Google Maps API and GeoLocator, ask questions about the games, and watch videos and have links to guides to improve on the game they desire.**
+- I’m currently working on **Local Locator. A project that brings my favorite hobby, competitive fighting games, into a much more accessible light. The App helps users find local tournaments around their area using the Google Maps API and GeoLocator, ask questions about the games, and watch videos/have links to guides to improve on the game they desire.**
 
 <hr>
 
